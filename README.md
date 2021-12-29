@@ -8,7 +8,7 @@ Skills: REACT / JS / HTML / CSS / NODE
 - 😄 Pronouns: She/her 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/roshnirajan1106)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/roshini-rajan-353505193/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Roshnirajan5)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' color ='white' height='40'>](https://github.com/roshnirajan1106)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' color ='white'  height='40'>](https://www.linkedin.com/in/roshini-rajan-353505193/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' color ='white'  height='40'>](https://twitter.com/Roshnirajan5)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshnirajan1106)](https://github.com/anuraghazra/github-readme-stats)
 
