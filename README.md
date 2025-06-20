@@ -16,9 +16,3 @@ I'm Roshini Rajan, a passionate Software Engineering student 💻.
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Roshnirajan5)
                                                                                                                   
 
-### ⚙️ &nbsp; Git Analytics
- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=roshnirajan1106&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshnirajan1106&theme=dark&layout=compact" width="410" /></p>
-
-
