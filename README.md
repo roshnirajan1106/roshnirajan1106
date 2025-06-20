@@ -7,9 +7,7 @@ I'm Roshini Rajan, a passionate Software Engineering student 💻.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning about React
-- :speech_balloon: Ask me about anything.
-- Upcomming summer intern at Deutsche Bank
+- :seedling: Software engineer at Deutsche bank
 - 😄 Pronouns: She/Her.
 
 🤝 &nbsp; Connect with Me
